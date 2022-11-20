@@ -3,5 +3,5 @@
 
 I am a computer science engineer who is passionate about contributing to the coding world. Some technologies I enjoy working with include Python, Java, AWS Console, HTML, CSS, and JavaScript. My intrest in these technologies have led me to do competitive programming. 
 
-[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-kapatia&hide=html,scss&layout=compact)](https://github.com/abhay-kapatia/github-readme-stats) ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhay-kapatia&bg_color=rgb(230, 99, 69),rgb(144, 78, 148)) 
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-kapatia&hide=html,scss&layout=compact)](https://github.com/abhay-kapatia/github-readme-stats) ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhay-kapatia&theme=radical) 
 ,
