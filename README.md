@@ -5,3 +5,4 @@ I am a computer science engineer, passionate about contributing to the coding wo
 
 [ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-kapatia&hide=html,scss&layout=compact&theme=radical)](https://github.com/abhay-kapatia/github-readme-stats) ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhay-kapatia&theme=radical) 
 ,
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhay-kapatia&theme=algolia)](https://git.io/streak-stats)
